@@ -1,3 +1,3 @@
 # cla-test
 testing for CLA
-# foo 5
+# foo 6
